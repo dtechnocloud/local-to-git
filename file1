@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello git 25-06-26
 hello git 2
+=======
+hello cherry-pick 1
+>>>>>>> d23b5ea (cherry pick-1)
